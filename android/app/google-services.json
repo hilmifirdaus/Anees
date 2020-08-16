@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022621620553",
+    "firebase_url": "https://aneesv2.firebaseio.com",
+    "project_id": "aneesv2",
+    "storage_bucket": "aneesv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022621620553:android:94671aec7c829c73532298",
+        "android_client_info": {
+          "package_name": "com.aneesv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022621620553-mepa1ilvskt6cg6ef7t9m7hbjfpjcro3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSA9Tj-mb4AS3K7xrhOWlheogvLZshm7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022621620553-mepa1ilvskt6cg6ef7t9m7hbjfpjcro3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
